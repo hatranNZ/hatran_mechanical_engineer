@@ -10,9 +10,13 @@ A selection of industry and research projects demonstrating mechanical design, s
 <summary><strong>Geotechnical Drill Machine R011</strong></summary>
 <br>
 
-<figure style="text-align: center;">
-  <img src="./images/geotechnical_drill_machine_r011.png" width="600">
-  <figcaption><em>Figure 1: Geotechnical Drill Machine R011 in travelling position</em></figcaption>
+<figure style="text-align: center; display: block;">
+  <img src="./images/geotechnical_drill_machine_r011.png" 
+    width="600"
+    style="display: block; margin: 0 auto;">
+  <figcaption style="margin-top: 8px;">
+    <em>Figure 1: Geotechnical Drill Machine R011 in travelling position</em>
+  </figcaption>
 </figure>
 
 <br>
@@ -40,7 +44,7 @@ A selection of industry and research projects demonstrating mechanical design, s
 
 <figure>
   <img src="./images/geotechnical_drill_machine_r011_2.png" width="600">
-  <figcaption><em>Figure 4: R011 Control Console</em></figcaption>
+  <figcaption><em>Figure 5: R011 Control Console</em></figcaption>
 </figure>
 
 ### Project Overview
