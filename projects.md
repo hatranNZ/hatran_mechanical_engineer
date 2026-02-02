@@ -12,7 +12,8 @@ A selection of industry and research projects demonstrating mechanical design, s
 
 <figure>
   <img src="./images/geotechnical_drill_machine_r011.png" width="600">
-  <figcaption><em>Figure 1: Geotechnical Drill Machine R011 in travelling position</em></figcaption>
+  <figcaption><em>
+    Figure 1: Geotechnical Drill Machine R011 in travelling position</em></figcaption>
 </figure>
 
 <br>
