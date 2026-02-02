@@ -48,7 +48,7 @@ A selection of industry and research projects demonstrating mechanical design, s
 </figure>
 
 ### Project Overview
-Design a custom drill machine for geotechical purposes to meet specific operational and structural requirements:
+Design a custom drill machine for geotechnical purposes to meet specific operational and structural requirements:
 - Addition of a 1.5 m folding mast extension to the original mast, capable of folding up during operation and down during transport.
 - Redesign of the two rear stabilizer legs to allow rotation to specified angles instead of being fixed as in the original model.
 - Development of a manually ratatable control console for improved operator accessibility.
@@ -60,6 +60,8 @@ Design a custom drill machine for geotechical purposes to meet specific operatio
 ### Responsibilities
 - Mechanical design of the folding mast with custom hinge solution, rotating stabilizer legs and rotating control console.
 - Redesign of the overall drill machine layout to lower the center of gravity.
+- Redesign of the foot clamp and breakout assembly to integrate newly specified custom hydraulic cylinders, ensuring proper alignment, force transmission, and operational reliability.
+- Redesign of the rubber track system to align with the base frame using a standardized parallel flange channel (PFC) profile, achieving structural consistency, overall weight reduction and manufacturing cost optimization.
 - Modification of the mast system using a leaf chain mechanism instead of a timing belt (as in the previous model).
 - Design of rod storage rack and mud pump mounting system.   
 - Selection of appropriate hydraulic fittings and hose tails for motors, valves, or other hydraulic components.
@@ -69,11 +71,11 @@ Design a custom drill machine for geotechical purposes to meet specific operatio
 - Development of a custom program to extract Bill of Materials (BOM) from Solid Edge assemblies to Google Sheets for inventory and order management.
 - Preparation of detailed technical drawings for profiled, pressed, machined, tube-lasered and tube-bent parts, ensuring dimension accuracy, tolerances and compliance with relevant standards (particularly for components manufactured by overseas suppliers).
 - Preparation of fabrication drawings for outsourced welding and assembly, ensuring proper geometric dimensioning and tolerancing (GD&T).
-- Communication with suppliers to negotiate pricing and coordinate manufacturing processes, enusring on-time delivery of components and final machine delivery to client
-- Writing the user manual and commissioning checklists
+- Communication with suppliers to negotiate pricing and coordinate manufacturing processes, enusring on-time delivery of components and final machine delivery to client.
+- Writing the user manual and commissioning checklists.
 
 ### Tools & Methods
-- Solid Edge for 3D modelling, mechnical design and simulation.
+- Solid Edge for 3D modelling, mechanical design and simulation.
 - Collaboration with suppliers for custom cylinders tailored to system requirements and cost targets.
 - Calculcations and selection of appropriate air cooler model for full system coverage.
 - Pipe sizing calculations based on flow rates and pressure requirements.
@@ -82,7 +84,7 @@ Design a custom drill machine for geotechical purposes to meet specific operatio
 - Development of a C# application to automatically extract BOM data from Solid Edge assemblies to Google Sheet, eliminating the need for the third-party services.
 
 ### Key Outcomes
-- Successfullu designed, manufactured, and delivered a custom geotechnical drill machine that met all specified requirements. 
+- Successfully designed, manufactured, and delivered a custom geotechnical drill machine that met all specified requirements. 
 - Achieve a more compact and optimized design compared to previous models.  
 - Ensure smooth and reliable operation of the engine and hydraulic systems.
 
@@ -91,3 +93,47 @@ Design a custom drill machine for geotechical purposes to meet specific operatio
 <br>
 <hr>
 <br>
+
+<details>
+<summary><strong>Geotechnical Drill Machine R010 for Solomon</strong></summary>
+<br>
+
+<figure>
+  <img src="./images/geotechnical_drill_machine_r010.jpg" width="600">
+  <figcaption><em>Figure 6: Geotechnical Drill Machine R010 in working position in Solomon</em></figcaption>
+</figure>
+
+### Project Overview
+Design a custom drill machine for geotechnical purposes to meet specific operational and structural requirements:
+- Redesign of the energy chain system to improve reliability and operational stability.
+- Replacement of flexible hydraulic hoses used in previous models with a hard-pipe system to achieve more compact and organized design.
+- Redesign of the mounting configuration of hydraulic filters to improve accessibility, protection and system layout.
+
+### Responsibilities
+- Mechanical design of the energy chain system and hydraulic filter mounting system.
+- Selection of appropriate hydraulic fittings and hose tails for motors, valves, or other hydraulic components.
+- Hydraulic pipe routing and system layout optimization.  
+- Simulation of machine operation under different working conditions.
+- Evaluation of machine performance under real loading conditions
+- Preparation of detailed technical drawings for profiled, pressed, machined, tube-lasered and tube-bent parts, ensuring dimension accuracy, tolerances and compliance with relevant standards.
+- Preparation of fabrication drawings for outsourced welding and assembly, ensuring proper geometric dimensioning and tolerancing (GD&T).
+- Communication with suppliers to negotiate pricing and coordinate manufacturing processes, enusring on-time delivery of components and final machine delivery to client.
+- Writing the user manual and commissioning checklists.
+
+### Tools & Methods
+- Solid Edge for 3D modelling, mechanical design and simulation.
+- Collaboration with suppliers for hard-pipe manufacturing and the on-time delivery of hydraulic hoses and fittings.
+- Pipe sizing calculations based on flow rates and pressure requirements.
+
+### Key Outcomes
+- Successfully designed, manufactured, and delivered a custom geotechnical drill machine that met all specified requirements. 
+- Achieve a better compact and optimized design compared to previous models.  
+- Ensure smooth and reliable operation of the engine and hydraulic systems.
+
+</details>
+
+<br>
+<hr>
+<br>
+
+
