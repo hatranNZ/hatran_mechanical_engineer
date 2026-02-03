@@ -106,11 +106,13 @@ Design a custom drill machine for geotechnical purposes to meet specific operati
 ### Project Overview
 Design a custom drill machine for geotechnical purposes to meet specific operational and structural requirements:
 - Redesign of the energy chain system to improve reliability and operational stability.
+- Change the location of wireline winch to prevent the interfernce between main winch ropes and wireline winch ropes.
 - Replacement of flexible hydraulic hoses used in previous models with a hard-pipe system to achieve more compact and organized design.
 - Redesign of the mounting configuration of hydraulic filters to improve accessibility, protection and system layout.
 
 ### Responsibilities
 - Mechanical design of the energy chain system and hydraulic filter mounting system.
+- Move the wireline line assembly to attach on the pivot frame instead of on the mast extrusion as in the previous models. 
 - Selection of appropriate hydraulic fittings and hose tails for motors, valves, or other hydraulic components.
 - Hydraulic pipe routing and system layout optimization.  
 - Simulation of machine operation under different working conditions.
@@ -133,7 +135,186 @@ Design a custom drill machine for geotechnical purposes to meet specific operati
 </details>
 
 <br>
+
+
 <hr>
 <br>
 
+<details>
+<summary><strong>Geotechnical Drill Machine R009 - a version integrated on the truck</strong></summary>
+<br>
 
+<figure>
+  <img src="./images/geotechnical_drill_machine_r009.jpg" width="600">
+  <figcaption><em>Figure 7: Geotechnical Drill Machine R009 in working position</em></figcaption>
+</figure>
+
+<br>
+
+<figure>
+  <img src="./images/geotechnical_drill_machine_r009_1.png" width="600">
+  <figcaption><em>Figure 8: Geotechnical Drill Machine R009 in travelling position</em></figcaption>
+</figure>
+
+### Project Overview
+Design a custom drill machine for geotechnical purposes intergrated on a truck for convenient transportation at all terrains:
+- Design of a spin cage to cover drivehead unit and enhance the health and safety while operating.
+- Design of a throttle push-pull mechanism to mechanically control engine speed.
+- Design the driveshaft to transmit the rotation of drievhead motor to the gearbox.
+
+### Responsibilities
+- Mechanical design of the spin cage, throttle push-pull mechanism installed inside the engine and the driveshaft.  
+- Simulation of machine operation under different working conditions.
+- Evaluation of machine performance under real loading conditions
+- Preparation of detailed technical drawings for profiled, pressed, machined, and tube-lasered parts, ensuring dimension accuracy, tolerances and compliance with relevant standards.
+- Preparation of fabrication drawings for outsourced welding and assembly, ensuring proper geometric dimensioning and tolerancing (GD&T).
+- Communication with suppliers to negotiate pricing and coordinate manufacturing processes, enusring on-time delivery of components and final machine delivery to client.
+- Writing the user manual and commissioning checklists.
+
+### Tools & Methods
+- Solid Edge for 3D modelling, mechanical design and simulation.
+
+### Key Outcomes
+- Successfully designed, manufactured, and delivered a custom geotechnical drill machine that met all specified requirements.  
+- Ensure smooth and reliable operation of the engine and hydraulic systems.
+
+</details>
+
+<br>
+
+
+<hr>
+<br>
+
+<details>
+<summary><strong>Geotechnical Drill Machine R008 - a version for both normal drill function and Cone Penetration Test (CPT)</strong></summary>
+<br>
+
+<figure>
+  <img src="./images/geotechnical_drill_machine_r008.jpg" width="600">
+  <figcaption><em>Figure 9: Geotechnical Drill Machine R008 in working position</em></figcaption>
+</figure>
+
+<br>
+
+<figure>
+  <img src="./images/geotechnical_drill_machine_r008_1.png" width="600">
+  <figcaption><em>Figure 10: Geotechnical Drill Machine R008 in travelling position</em></figcaption>
+</figure>
+
+### Project Overview
+Design a custom drill machine for geotechnical purposes - acting as a nornal drill machine and doing the cone penetration test (CPT):
+- Redesign of the foot clamp and breakout assembly to suit the CPT function.
+- Design of a mechanism integrating the translational motion of a cylider and the rotational motion from a motor to form a complete motion on the cone for CPT testing.
+- Change the travel method of drivehead unit using a timing belt as classically into using a 3.5 m stroke cylinder. Modify the design of wireline winch to accommodate this change.
+- Design a throttle system to electrically control the engine speed.
+- Design the vertical energy chain system to support the movement of hydraulic hoses under the machine operations.
+- Design the driveshaft to transmit the rotation of drievhead motor to the gearbox.
+
+### Responsibilities
+- Mechanical design of the foot clamp and breakout assembly, CPT testing assembly, mast extrusion, wireline winch assembly, throttle system for engine, vertical energy chain system on the base frame, and the driveshaft.  
+- Simulation of machine operation under different working conditions.
+- Evaluation of machine performance under real loading conditions
+- Preparation of detailed technical drawings for profiled, pressed, machined, and tube-lasered parts, ensuring dimension accuracy, tolerances and compliance with relevant standards.
+- Preparation of fabrication drawings for outsourced welding and assembly, ensuring proper geometric dimensioning and tolerancing (GD&T).
+- Communication with suppliers to negotiate pricing and coordinate manufacturing processes, enusring on-time delivery of components and final machine delivery to client.
+- Writing the user manual and commissioning checklists.
+
+### Tools & Methods
+- Solid Edge for 3D modelling, mechanical design and simulation.
+
+### Key Outcomes
+- Successfully designed, manufactured, and delivered a custom geotechnical drill machine that met all specified requirements.  
+- Ensure smooth and reliable operation of the engine and hydraulic systems.
+
+</details>
+
+<br>
+
+
+<hr>
+<br>
+
+<details>
+<summary><strong>Drill Machine for Excavator Series R007</strong></summary>
+<br>
+
+<figure>
+  <img src="./images/excavator_series_r007.jpg" width="600">
+  <figcaption><em>Figure 11: Drill Machine R007 - Excavator Series in working position</em></figcaption>
+</figure>
+
+### Project Overview
+Design a custom drill machine attached to an excavator:
+- Redesign of the foot clamp and breakout assembly to suit the CPT function.
+- Design of a mechanism integrating the translational motion of a cylider and the rotational motion from a motor to form a complete motion on the cone for CPT testing.
+- Change the travel method of drivehead unit using a timing belt as classically into using a 3.5 m stroke cylinder. Modify the design of wireline winch to accommodate this change.
+- Design a throttle system to electrically control the engine speed.
+- Design the vertical energy chain system to support the movement of hydraulic hoses under the machine operations.
+- Design the driveshaft to transmit the rotation of drievhead motor to the gearbox.
+
+### Responsibilities
+- Mechanical design of the foot clamp and breakout assembly, CPT testing assembly, mast extrusion, wireline winch assembly, throttle system for engine, vertical energy chain system on the base frame, and the driveshaft.  
+- Simulation of machine operation under different working conditions.
+- Evaluation of machine performance under real loading conditions
+- Preparation of detailed technical drawings for profiled, pressed, machined, and tube-lasered parts, ensuring dimension accuracy, tolerances and compliance with relevant standards.
+- Preparation of fabrication drawings for outsourced welding and assembly, ensuring proper geometric dimensioning and tolerancing (GD&T).
+- Communication with suppliers to negotiate pricing and coordinate manufacturing processes, enusring on-time delivery of components and final machine delivery to client.
+- Writing the user manual and commissioning checklists.
+
+### Tools & Methods
+- Solid Edge for 3D modelling, mechanical design and simulation.
+
+### Key Outcomes
+- Successfully designed, manufactured, and delivered a custom geotechnical drill machine that met all specified requirements.  
+- Ensure smooth and reliable operation of the engine and hydraulic systems.
+
+</details>
+
+<br>
+
+
+<hr>
+<br>
+
+<details>
+<summary><strong>Oscillating Rig to Generate Wind Gust and Natural Wind Conditions - Rectangular Grid to Generate Turbulent Flows - Unmanned Aerial Vehicle (UAV) Testing</strong></summary>
+<br>
+
+<figure>
+  <img src="./images/excavator_series_r007.jpg" width="600">
+  <figcaption><em>Figure 11: Drill Machine R007 - Excavator Series in working position</em></figcaption>
+</figure>
+
+### Project Overview
+Design a custom drill machine attached to an excavator:
+- Redesign of the foot clamp and breakout assembly to suit the CPT function.
+- Design of a mechanism integrating the translational motion of a cylider and the rotational motion from a motor to form a complete motion on the cone for CPT testing.
+- Change the travel method of drivehead unit using a timing belt as classically into using a 3.5 m stroke cylinder. Modify the design of wireline winch to accommodate this change.
+- Design a throttle system to electrically control the engine speed.
+- Design the vertical energy chain system to support the movement of hydraulic hoses under the machine operations.
+- Design the driveshaft to transmit the rotation of drievhead motor to the gearbox.
+
+### Responsibilities
+- Mechanical design of the foot clamp and breakout assembly, CPT testing assembly, mast extrusion, wireline winch assembly, throttle system for engine, vertical energy chain system on the base frame, and the driveshaft.  
+- Simulation of machine operation under different working conditions.
+- Evaluation of machine performance under real loading conditions
+- Preparation of detailed technical drawings for profiled, pressed, machined, and tube-lasered parts, ensuring dimension accuracy, tolerances and compliance with relevant standards.
+- Preparation of fabrication drawings for outsourced welding and assembly, ensuring proper geometric dimensioning and tolerancing (GD&T).
+- Communication with suppliers to negotiate pricing and coordinate manufacturing processes, enusring on-time delivery of components and final machine delivery to client.
+- Writing the user manual and commissioning checklists.
+
+### Tools & Methods
+- Solid Edge for 3D modelling, mechanical design and simulation.
+
+### Key Outcomes
+- Successfully designed, manufactured, and delivered a custom geotechnical drill machine that met all specified requirements.  
+- Ensure smooth and reliable operation of the engine and hydraulic systems.
+
+</details>
+
+<br>
+
+
+<hr>
+<br>
