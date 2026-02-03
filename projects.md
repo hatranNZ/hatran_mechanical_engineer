@@ -278,34 +278,70 @@ Design a custom drill machine attached to an excavator:
 <br>
 
 <details>
-<summary><strong>Oscillating Rig to Generate Wind Gust and Natural Wind Conditions - Rectangular Grid to Generate Turbulent Flows - Unmanned Aerial Vehicle (UAV) Testing</strong></summary>
+<summary><strong>Oscillating Rig to Replicate Wind Gust and Natural Wind Conditions - Rectangular Grid to Generate Turbulent Flows - Unmanned Aerial Vehicle (UAV) Testing</strong></summary>
 <br>
 
 <figure>
-  <img src="./images/excavator_series_r007.jpg" width="600">
-  <figcaption><em>Figure 11: Drill Machine R007 - Excavator Series in working position</em></figcaption>
+  <img src="./images/active_grid.jpg" width="600">
+  <figcaption><em>Figure 12: Oscillating Rig to Replicate Wind Gust and Natural Wind Conditions</em></figcaption>
+</figure>
+
+<br>
+
+<figure style="text-align: center;">
+  <video width="700" controls>
+    <source src="./videos/active_grid_movement.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <figcaption><em>Video 1: Oscillating Rig Movement in the Wind Tunnel for Wind Gust Generation</em></figcaption>
+</figure>
+
+<br>
+
+<figure>
+  <img src="./images/active_grid_with_wing.jpg" width="600">
+  <figcaption><em>Figure 13: UAV Wing Testing under Wind Gust and Natural Wind Conditions</em></figcaption>
+</figure>
+
+<br>
+
+<figure>
+  <img src="./images/kahu_uav.jpg" width="600">
+  <figcaption><em>Figure 14: Kahu UAV from New Zealand Defence Force employed in the study</em></figcaption>
+</figure>
+
+<br>
+
+<figure>
+  <img src="./images/working_with_aircraft_model.jpg" width="600">
+  <figcaption><em>Figure 15: Working with other Aircraft Models</em></figcaption>
+</figure>
+
+<br>
+
+<figure>
+  <img src="./images/passive_grid.jpg" width="600">
+  <figcaption><em>Figure 16: Rectangular Grid to Generate Turbulent Flows</em></figcaption>
 </figure>
 
 ### Project Overview
-Design a custom drill machine attached to an excavator:
-- Redesign of the foot clamp and breakout assembly to suit the CPT function.
-- Design of a mechanism integrating the translational motion of a cylider and the rotational motion from a motor to form a complete motion on the cone for CPT testing.
-- Change the travel method of drivehead unit using a timing belt as classically into using a 3.5 m stroke cylinder. Modify the design of wireline winch to accommodate this change.
-- Design a throttle system to electrically control the engine speed.
-- Design the vertical energy chain system to support the movement of hydraulic hoses under the machine operations.
-- Design the driveshaft to transmit the rotation of drievhead motor to the gearbox.
+Investigate the performance of a small fixed-wing UAV under different wind conditions: Turbulent Flows - Wind Gusts - Natural Wind Situations
+- Design of a rectangular grid to generate turbulent flows.
+- Design of a oscillating rig for the purpose of generating wind gusts and replicating natural wind conditions. Program the servo motor of the rig so that the movement of the oscillating aerofoils can generate the wind gusts and replicate the natural wind conditions in the wind tunnel. 
+- Test the performance of Kahu UAV (a small fixed-wing UAV from New Zealand Defence Force) under such extreme wind conditions.
+- Establish a model to predict  the performance of an arbitrary UAV under such extreme wind conditions.
 
 ### Responsibilities
-- Mechanical design of the foot clamp and breakout assembly, CPT testing assembly, mast extrusion, wireline winch assembly, throttle system for engine, vertical energy chain system on the base frame, and the driveshaft.  
-- Simulation of machine operation under different working conditions.
-- Evaluation of machine performance under real loading conditions
-- Preparation of detailed technical drawings for profiled, pressed, machined, and tube-lasered parts, ensuring dimension accuracy, tolerances and compliance with relevant standards.
-- Preparation of fabrication drawings for outsourced welding and assembly, ensuring proper geometric dimensioning and tolerancing (GD&T).
-- Communication with suppliers to negotiate pricing and coordinate manufacturing processes, enusring on-time delivery of components and final machine delivery to client.
-- Writing the user manual and commissioning checklists.
+- Mechanical design of the oscillating rig and rectangular grid.  
+- Generation of extreme wind conditions in the wind tunnel, including turbulent flows, wind gusts and natural wind situations.
+- Testing of Kahu UAV under such extreme wind conditions. Analysis of data using advanced methodologies.
+- Build of a mathematic model to predict the performace of small fixed-wing UAV under such extreme wind conditions.
 
 ### Tools & Methods
-- Solid Edge for 3D modelling, mechanical design and simulation.
+- Reading literature to have an overall insight of what has been done around the world.
+- SolidWorks usage for 3D modelling, design and opearting simulations of the oscillating rig and rectangular grid.
+- Manufacturing of the rectangular grid by myself - purchasing materials from Bunnings Warehouse and using hand-driller and nails for assembling the wooden bar together to create a complete rectangular grid.
+- 
 
 ### Key Outcomes
 - Successfully designed, manufactured, and delivered a custom geotechnical drill machine that met all specified requirements.  
