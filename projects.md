@@ -361,3 +361,49 @@ Investigate the performance of a small fixed-wing UAV under different wind condi
 
 <hr>
 <br>
+
+<details>
+<summary><strong>Investigation the performance of a stream tidal turbine under extreme flow conditions</strong></summary>
+<br>
+
+<figure>
+  <img src="./images/tidal_turbine.jpg" width="600">
+  <figcaption><em>Figure 17: Tidal Turbine Model</em></figcaption>
+</figure>
+
+### Project Overview
+Investigate the performance of a stream tidal turbine under extreme flow conditions:
+- Design of a tidal turbine with a novel approach to obtain the highest theoretical perferformance.
+- Test the performance of the tidal turbine model in a flume under extreme flow conditions.
+- Simulate the performance of the tidal turbine model using specific programs from Natioanl Renewable Energy Laboratory. 
+- Compare the results between experiments and simulations and make a conclusion.
+
+### Responsibilities
+- Mechanical design of the stream tidal turbine to obtain the highest theoretical performance.  
+- Conduct the testing of the tidal turbine model in the flume under extreme flow conditions.
+- Do the simulations of the tidal turbine performance.
+- Analyse the data and compare results.
+
+### Tools & Methods
+- Reading literature to have an overall insight of what has been done around the world.
+- Inventor and Creo usage for 3D modelling and design of the stream tidal turbine model. The design must be waterproof so the electrical instrumentation installed inside the model can work properly under water.
+- Preparation of detailed technical drawings for parts for the tidal turbine model, ensuring dimension accuracy, tolerances and compliance with relevant standards to send to the workshop for manufacturing.
+- Preparation of fabrication drawings for welding and assembly in the workshop, ensuring proper geometric dimensioning and tolerancing (GD&T).
+- Selection and order of electrical instrumentations for the experiments.
+- Installation of the tidal turbine model in the flume for testing.
+- Conduct the experiments, ensuring no data drift from instrumentations, collecting the data.
+- Simulate the performance of the tidal turbine model using specific programs from National Renewable Energy Laboratory.
+- Compare the results between two methodologies and make a conclusion.
+
+### Key Outcomes
+- Find the key points in the operations of stream tidal turbine model under extreme flow conditions.
+- Validate the results between experiments and simulations. 
+- Successfully delivered a high-quality research at Master level with outstanding results and a publication on a reputational journal. 
+
+</details>
+
+<br>
+
+
+<hr>
+<br>
