@@ -3,6 +3,10 @@ layout: default
 title: Contact
 permalink: /contact/
 ---
+
+[Home](index.md) | [Projects](projects.md) | [Education](education.md) | [Contact](contact.md)
+
+---
 # Contact
 
 Thank you for visiting my portfolio.
