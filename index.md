@@ -33,3 +33,11 @@ Explore detailed industry and research projects demonstrating practical engineer
 👉 [View Projects](./projects/)  
 👉 [View Education & Research](./education/)  
 👉 [Download CV](./files/Ha_Tran_CV.pdf)
+
+# Navigation / Header Menu
+header_pages:
+  - index.md
+  - projects.md
+  - skills.md
+  - education.md
+  - contact.md
