@@ -3,6 +3,10 @@ layout: single
 title: "Projects"
 permalink: /projects/
 ---
+
+[Home](index.md) | [Projects](projects.md) | [Education](education.md) | [Contact](contact.md)
+
+---
 # Selected Engineering Projects
 
 A selection of industry and research projects demonstrating mechanical design, structural analysis, aero-hydrodynamic calculations, and hydraulic and electrical system integration.
