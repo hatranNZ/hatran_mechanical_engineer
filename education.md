@@ -3,6 +3,10 @@ layout: default
 title: Education
 permalink: /education/
 ---
+
+[Home](index.md) | [Projects](projects.md) | [Education](education.md) | [Contact](contact.md)
+
+---
 # Education
 
 ## Doctor of Philosophy in Mechanical Engineering  
