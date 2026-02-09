@@ -3,16 +3,33 @@ layout: home
 title: "Ha Tran | Mechanical Engineer"
 author_profile: true
 ---
-## Mechanical Engineer | Energy & Advanced Systems
+## Ha Tran
 
-Mechanical Engineer with hands-on experience designing and developing machines and mechanical systems across industry and academic projects in multicultural environments. Skilled in tackling complex engineering challenges with creativity, adaptability, and practical problem-solving. Strong communicator and collaborative team player, delivering high-performance solutions across diverse engineering fields.
+### Mechanical Design Engineer | Heavy Industrial Machinery | Renewable Energy  | Aerospace, Mining & Marine Systems
 
-### Core Areas of Expertise
-- **Renewable Energy Systems:** Tidal turbines, sustainable power solutions, hydrodynamic performance analysis
-- **Aerospace & UAV Systems:** Mechanical and structural design, aerodynamic performance, operation in turbulent and unsteady conditions
-- **Heavy Industrial Machinery:** Drill machines (excavator and geotechnical series), hydraulic system design and analysis, pipe routing, complex mechanical systems
-- **Marine Engineering:** Ship design, hydrostatic and hydrodynamic performance, structural analysis, propulison calculations and system design
-- **Structural Strength & Analysis:** Classical theory and finite element analysis (FEA) using ANSYS, and other engineering software
-- **Aero-Hydrodynamic Performance:** Performance calculations and simulations using classical theory and tools such as ANSYS
+I am a mechanical engineer with industry and research experience delivering complex mechanical systems across heavy industrial machinery, renewable energy, aerospace platforms, and marine engineering.
 
-[Download CV](./Ha Tran - Resume.pdf)
+My background includes mechanical design, structural strength assessment, hydraulic system integration, aero-hydrodynamic performance analysis, and full product development from concept through manufacturing, testing, and commissioning. I have led redesign and optimization projects to improve reliability, reduce weight, lower centre of gravity, and enhance operational safety under real-world working conditions.
+
+Holding New Zealand citizenship, I am open to industry opportunities locally and internationally in design, heavy equipment, mining-related machinery, energy systems, and advanced manufacturing.
+
+---
+
+## Core Capabilities
+
+- Mechanical system design and optimization  
+- Structural analysis (hand calculations & FEA – ANSYS)  
+- Aero-hydrodynamic performance analysis  
+- Hydraulic system design and pipe routing  
+- Heavy equipment and machinery development  
+- Engineering documentation, fabrication drawings & BOM automation  
+
+---
+
+## Selected Projects
+
+Explore detailed industry and research projects demonstrating practical engineering delivery:
+
+👉 [View Projects](./projects/)  
+👉 [View Education & Research](./education/)  
+👉 [Download CV](./files/Ha_Tran_CV.pdf)
