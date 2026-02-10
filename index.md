@@ -1,7 +1,6 @@
 ---
-layout: home
+layout: page
 title: "Ha Tran | Mechanical Engineer"
-author_profile: true
 ---
 
 ## Ha Tran
