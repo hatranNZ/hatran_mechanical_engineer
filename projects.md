@@ -1,7 +1,6 @@
 ---
-layout: single
-title: "Projects"
-permalink: /projects/
+layout: page
+title: Projects
 ---
 
 # Selected Engineering Projects
