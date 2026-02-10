@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Projects
+permalink: /projects/
 ---
 
 # Selected Engineering Projects
