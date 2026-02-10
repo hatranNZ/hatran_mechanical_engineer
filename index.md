@@ -32,5 +32,6 @@ Explore detailed industry and research projects demonstrating practical engineer
 
 👉 [View Projects]({{ site.baseurl }}/projects/)  
 👉 [View Skills]({{ site.baseurl }}/skills/)
+<br>
 👉 [View Education & Research]({{ site.baseurl }}/education/)  
 👉 [Download CV]({{ site.baseurl }}/files/Ha_Tran_CV.pdf)
