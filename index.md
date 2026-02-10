@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Ha Tran | Mechanical Engineer"
+permalink: /index/
 ---
 
 ## Ha Tran
