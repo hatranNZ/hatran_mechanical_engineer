@@ -3,6 +3,8 @@ layout: page
 title: "Ha Tran | Mechanical Engineer"
 ---
 
+<img src="{{ '/images/headshot_photo.jpeg' | relative_url }}" alt="Ha Tran Headshot" class="headshot">
+
 # Ha Tran
 
 ### Mechanical Design Engineer | Heavy Industrial Machinery | Renewable Energy | Aerospace, Mining & Marine Systems
