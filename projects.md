@@ -11,11 +11,10 @@ A selection of industry and research projects demonstrating mechanical design, s
 <summary><strong>Geotechnical Drill Machine R011</strong></summary>
 <br>
 
-<figure style="text-align: center; display: block;">
-  <img src="{{ '/images/geotechnical_drill_machine_r011.png' | relative_url }}"
-    width="600"
-    style="display: block; margin: 0 auto;">
-  <figcaption style="margin-top: 8px;">
+<figure class="project-image">
+  <img src="{{ '/images/geotechnical_drill_machine_r011.png' | relative_url }}" 
+       alt="Geotechnical Drill Machine R011 travelling position">
+  <figcaption>
     <em>Figure 1: Geotechnical Drill Machine R011 in travelling position</em>
   </figcaption>
 </figure>
