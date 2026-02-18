@@ -12,7 +12,7 @@ A selection of industry and research projects demonstrating mechanical design, s
 <br>
 
 <figure style="text-align: center; display: block;">
-  <img src="./images/geotechnical_drill_machine_r011.png" 
+  <img src="{{ '/images/geotechnical_drill_machine_r011.png' | relative_url }}"
     width="600"
     style="display: block; margin: 0 auto;">
   <figcaption style="margin-top: 8px;">
