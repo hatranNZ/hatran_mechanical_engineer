@@ -13,3 +13,10 @@ header_pages:
   - education.md
   - contact.md
 
+sass:
+  style: compressed
+
+# Custom CSS for remote themes
+include: ["assets/css/style.css"]
+
+
