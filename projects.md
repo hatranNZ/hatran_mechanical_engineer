@@ -59,7 +59,7 @@ A selection of industry and research projects demonstrating mechanical design, s
   </figcaption>
 </figure>
 
-</p>
+<br><br>
 
 ### Project Overview
 
