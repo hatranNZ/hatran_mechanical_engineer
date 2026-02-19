@@ -59,6 +59,8 @@ A selection of industry and research projects demonstrating mechanical design, s
   </figcaption>
 </figure>
 
+</p>
+
 ### Project Overview
 
 Design a custom drill machine for geotechnical purposes to meet specific operational and structural requirements:
