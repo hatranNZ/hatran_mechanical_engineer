@@ -31,23 +31,32 @@ A selection of industry and research projects demonstrating mechanical design, s
 
 <br>
 
-<figure>
-  <img src="./images/geotechnical_drill_machine_r011_1.png" width="600">
-  <figcaption><em>Figure 3: Geotechnical Drill Machine R011 in working position - Side view with air coller, hydraulic pipe routing and hydraulic tank</em></figcaption>
+<figure class="project-image">
+  <img src="{{ '/images/geotechnical_drill_machine_r011_1.png' | relative_url }}" 
+       alt="Geotechnical Drill Machine R011 in working position - Side view with air coller, hydraulic pipe routing and hydraulic tank">
+  <figcaption style="text-align:center;">
+    <em>Figure 3: Geotechnical Drill Machine R011 in working position - Side view with air coller, hydraulic pipe routing and hydraulic tank</em>
+  </figcaption>
 </figure>
 
 <br>
 
-<figure>
-  <img src="./images/geotechnical_drill_machine_r011_3.png" width="600">
-  <figcaption><em>Figure 4: Geotechnical Drill Machine R011 in working position - Front view with foot clamp - breakout assembly, stabilizer legs, drivehead unit, mast, leaf chain, energy chain and control console</em></figcaption>
+<figure class="project-image">
+  <img src="{{ '/images/geotechnical_drill_machine_r011_3.png' | relative_url }}" 
+       alt="Geotechnical Drill Machine R011 in working position - Front view with foot clamp - breakout assembly, stabilizer legs, drivehead unit, mast, leaf chain, energy chain and control console">
+  <figcaption style="text-align:center;">
+    <em>Figure 4: Geotechnical Drill Machine R011 in working position - Front view with foot clamp - breakout assembly, stabilizer legs, drivehead unit, mast, leaf chain, energy chain and control console</em>
+  </figcaption>
 </figure>
 
 <br>
 
-<figure>
-  <img src="./images/geotechnical_drill_machine_r011_2.png" width="600">
-  <figcaption><em>Figure 5: R011 Control Console</em></figcaption>
+<figure class="project-image">
+  <img src="{{ '/images/geotechnical_drill_machine_r011_2.png' | relative_url }}" 
+       alt="Figure 5: R011 Control Console">
+  <figcaption style="text-align:center;">
+    <em>Figure 5: Figure 5: R011 Control Console</em>
+  </figcaption>
 </figure>
 
 ### Project Overview
