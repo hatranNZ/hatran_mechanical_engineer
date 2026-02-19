@@ -20,6 +20,7 @@
 }
 
 .project-image figcaption {
+  text-align: center;   /* Centers caption text */
   margin-top: 10px;
   font-size: 0.95rem;
   color: #555;
