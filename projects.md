@@ -60,7 +60,9 @@ A selection of industry and research projects demonstrating mechanical design, s
 </figure>
 
 ### Project Overview
+
 Design a custom drill machine for geotechnical purposes to meet specific operational and structural requirements:
+
 - Addition of a 1.5 m folding mast extension to the original mast, capable of folding up during operation and down during transport.
 - Redesign of the two rear stabilizer legs to allow rotation to specified angles instead of being fixed as in the original model.
 - Development of a manually ratatable control console for improved operator accessibility.
@@ -70,6 +72,7 @@ Design a custom drill machine for geotechnical purposes to meet specific operati
 - Design and implement of a drill rod storage rack. 
 
 ### Responsibilities
+
 - Mechanical design of the folding mast with custom hinge solution, rotating stabilizer legs and rotating control console.
 - Redesign of the overall drill machine layout to lower the center of gravity.
 - Redesign of the foot clamp and breakout assembly to integrate newly specified custom hydraulic cylinders, ensuring proper alignment, force transmission, and operational reliability.
@@ -87,6 +90,7 @@ Design a custom drill machine for geotechnical purposes to meet specific operati
 - Writing the user manual and commissioning checklists.
 
 ### Tools & Methods
+
 - Solid Edge for 3D modelling, mechanical design and simulation.
 - Collaboration with suppliers for custom cylinders tailored to system requirements and cost targets.
 - Calculcations and selection of appropriate air cooler model for full system coverage.
@@ -96,6 +100,7 @@ Design a custom drill machine for geotechnical purposes to meet specific operati
 - Development of a C# application to automatically extract BOM data from Solid Edge assemblies to Google Sheet, eliminating the need for the third-party services.
 
 ### Key Outcomes
+
 - Successfully designed, manufactured, and delivered a custom geotechnical drill machine that met all specified requirements. 
 - Achieve a more compact and optimized design compared to previous models.  
 - Ensure smooth and reliable operation of the engine and hydraulic systems.
