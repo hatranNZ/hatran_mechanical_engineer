@@ -14,6 +14,13 @@
   max-width: 700px;    /* keeps figure from stretching too wide */
 }
 
+.project-image img {
+  width: 100%;
+  max-width: 700px;
+  height: auto;
+  border-radius: 8px;
+}
+
 .project-image figcaption {
   text-align: center;
   margin-top: 12px;
