@@ -9,8 +9,6 @@ permalink: /projects/
 A selection of industry and research projects demonstrating mechanical design, structural analysis, aero-hydrodynamic calculations, and hydraulic and electrical system integration.
 <details>
 <summary><strong>Geotechnical Drill Machine R011</strong></summary>
-
-<div markdown="1">
   
 <br>
 
@@ -63,6 +61,8 @@ A selection of industry and research projects demonstrating mechanical design, s
 </figure>
 
 <br>
+
+<div markdown="1">
   
 ### Project Overview
 
