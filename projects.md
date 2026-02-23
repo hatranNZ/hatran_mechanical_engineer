@@ -127,6 +127,8 @@ Design a custom drill machine for geotechnical purposes to meet specific operati
   <figcaption><em>Figure 6: Geotechnical Drill Machine R010 in working position in Solomon</em></figcaption>
 </figure>
 
+<div markdown="1">
+  
 ### Project Overview
 Design a custom drill machine for geotechnical purposes to meet specific operational and structural requirements:
 - Redesign of the energy chain system to improve reliability and operational stability.
@@ -157,11 +159,10 @@ Design a custom drill machine for geotechnical purposes to meet specific operati
 - Ensure smooth and reliable operation of the engine and hydraulic systems.
 
 </div>
+
 </details>
 
 <br>
-
-
 <hr>
 <br>
 
@@ -181,6 +182,8 @@ Design a custom drill machine for geotechnical purposes to meet specific operati
   <figcaption><em>Figure 8: Geotechnical Drill Machine R009 in travelling position</em></figcaption>
 </figure>
 
+<div markdown="1">
+  
 ### Project Overview
 Design a custom drill machine for geotechnical purposes intergrated on a truck for convenient transportation at all terrains:
 - Design of a spin cage to cover drivehead unit and enhance the health and safety while operating.
@@ -203,11 +206,10 @@ Design a custom drill machine for geotechnical purposes intergrated on a truck f
 - Successfully designed, manufactured, and delivered a custom geotechnical drill machine that met all specified requirements.  
 - Ensure smooth and reliable operation of the engine and hydraulic systems.
 
+<div>
 </details>
 
 <br>
-
-
 <hr>
 <br>
 
@@ -227,6 +229,8 @@ Design a custom drill machine for geotechnical purposes intergrated on a truck f
   <figcaption><em>Figure 10: Geotechnical Drill Machine R008 in travelling position</em></figcaption>
 </figure>
 
+<div markdown="1">
+  
 ### Project Overview
 Design a custom drill machine for geotechnical purposes - acting as a nornal drill machine and doing the cone penetration test (CPT):
 - Redesign of the foot clamp and breakout assembly to suit the CPT function.
@@ -252,11 +256,10 @@ Design a custom drill machine for geotechnical purposes - acting as a nornal dri
 - Successfully designed, manufactured, and delivered a custom geotechnical drill machine that met all specified requirements.  
 - Ensure smooth and reliable operation of the engine and hydraulic systems.
 
+<div>
 </details>
 
 <br>
-
-
 <hr>
 <br>
 
@@ -268,6 +271,8 @@ Design a custom drill machine for geotechnical purposes - acting as a nornal dri
   <img src="./images/excavator_series_r007.jpg" width="600">
   <figcaption><em>Figure 11: Drill Machine R007 - Excavator Series in working position</em></figcaption>
 </figure>
+
+<div markdown="1">
 
 ### Project Overview
 Design a custom drill machine attached to an excavator:
@@ -294,11 +299,11 @@ Design a custom drill machine attached to an excavator:
 - Successfully designed, manufactured, and delivered a custom geotechnical drill machine that met all specified requirements.  
 - Ensure smooth and reliable operation of the engine and hydraulic systems.
 
+<div>
+  
 </details>
 
 <br>
-
-
 <hr>
 <br>
 
@@ -349,6 +354,8 @@ Design a custom drill machine attached to an excavator:
   <figcaption><em>Figure 16: Rectangular Grid to Generate Turbulent Flows</em></figcaption>
 </figure>
 
+<div markdown="1">
+  
 ### Project Overview
 Investigate the performance of a small fixed-wing UAV under different wind conditions: Turbulent Flows - Wind Gusts - Natural Wind Situations
 - Design of a rectangular grid to generate turbulent flows.
@@ -379,11 +386,10 @@ Investigate the performance of a small fixed-wing UAV under different wind condi
 - Estabalish a mathematic model to determine the UAV performance under such weather conditions, which is the input for building the UAV control systems. 
 - Successfully delivered a research at international PhD level with outstanding results. 
 
+<div>
 </details>
 
 <br>
-
-
 <hr>
 <br>
 
@@ -396,6 +402,8 @@ Investigate the performance of a small fixed-wing UAV under different wind condi
   <figcaption><em>Figure 17: Tidal Turbine Model</em></figcaption>
 </figure>
 
+<div markdown="1">
+  
 ### Project Overview
 Investigate the performance of a stream tidal turbine under extreme flow conditions:
 - Design of a tidal turbine with a novel approach to obtain the highest theoretical perferformance.
@@ -425,6 +433,8 @@ Investigate the performance of a stream tidal turbine under extreme flow conditi
 - Validate the results between experiments and simulations. 
 - Successfully delivered a high-quality research at Master level with outstanding results and a publication on a reputational journal. 
 
+<div>
+  
 </details>
 
 <br>
