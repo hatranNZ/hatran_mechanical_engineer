@@ -249,7 +249,7 @@ Design a custom drill machine for geotechnical purposes intergrated on a truck f
 <br>
 
 <figure class="project-image">
-  <img src="{{ '/images/geotechnical_drill_machine_r008_1.png' | relative_url }}" 
+  <img src="{{ '/images/geotechnical_drill_machine_r008_1.PNG' | relative_url }}" 
        alt="Geotechnical Drill Machine R008 in travelling position">
   <figcaption style="text-align:center;">
     <em>Figure 10: Geotechnical Drill Machine R008 in travelling position</em>
