@@ -127,9 +127,12 @@ Design a custom drill machine for geotechnical purposes to meet specific operati
   
 <br>
 
-<figure>
-  <img src="./images/geotechnical_drill_machine_r010.jpg" width="600">
-  <figcaption><em>Figure 6: Geotechnical Drill Machine R010 in working position in Solomon</em></figcaption>
+<figure class="project-image">
+  <img src="{{ '/images/geotechnical_drill_machine_r010.png' | relative_url }}" 
+       alt="Geotechnical Drill Machine R010 in working position in Solomon">
+  <figcaption style="text-align:center;">
+    <em>Figure 6: Geotechnical Drill Machine R010 in working position in Solomon</em>
+  </figcaption>
 </figure>
 
 <div markdown="1">
@@ -178,16 +181,22 @@ Design a custom drill machine for geotechnical purposes to meet specific operati
   
 <br>
 
-<figure>
-  <img src="./images/geotechnical_drill_machine_r009.jpg" width="600">
-  <figcaption><em>Figure 7: Geotechnical Drill Machine R009 in working position</em></figcaption>
+<figure class="project-image">
+  <img src="{{ '/images/geotechnical_drill_machine_r009.jpg' | relative_url }}" 
+       alt="Geotechnical Drill Machine R009 in working position">
+  <figcaption style="text-align:center;">
+    <em>Figure 7: Geotechnical Drill Machine R009 in working position</em>
+  </figcaption>
 </figure>
 
 <br>
 
-<figure>
-  <img src="./images/geotechnical_drill_machine_r009_1.png" width="600">
-  <figcaption><em>Figure 8: Geotechnical Drill Machine R009 in travelling position</em></figcaption>
+<figure class="project-image">
+  <img src="{{ '/images/geotechnical_drill_machine_r009_1.png' | relative_url }}" 
+       alt="Geotechnical Drill Machine R009 in travelling position">
+  <figcaption style="text-align:center;">
+    <em>Figure 8: Geotechnical Drill Machine R009 in travelling position</em>
+  </figcaption>
 </figure>
 
 <div markdown="1">
@@ -229,16 +238,22 @@ Design a custom drill machine for geotechnical purposes intergrated on a truck f
   
 <br>
 
-<figure>
-  <img src="./images/geotechnical_drill_machine_r008.jpg" width="600">
-  <figcaption><em>Figure 9: Geotechnical Drill Machine R008 in working position</em></figcaption>
+<figure class="project-image">
+  <img src="{{ '/images/geotechnical_drill_machine_r008.jpg' | relative_url }}" 
+       alt="Geotechnical Drill Machine R008 in working position">
+  <figcaption style="text-align:center;">
+    <em>Figure 9: Geotechnical Drill Machine R008 in working position</em>
+  </figcaption>
 </figure>
 
 <br>
 
-<figure>
-  <img src="./images/geotechnical_drill_machine_r008_1.png" width="600">
-  <figcaption><em>Figure 10: Geotechnical Drill Machine R008 in travelling position</em></figcaption>
+<figure class="project-image">
+  <img src="{{ '/images/geotechnical_drill_machine_r008_1.png' | relative_url }}" 
+       alt="Geotechnical Drill Machine R008 in travelling position">
+  <figcaption style="text-align:center;">
+    <em>Figure 10: Geotechnical Drill Machine R008 in travelling position</em>
+  </figcaption>
 </figure>
 
 <div markdown="1">
@@ -283,9 +298,12 @@ Design a custom drill machine for geotechnical purposes - acting as a nornal dri
   
 <br>
 
-<figure>
-  <img src="./images/excavator_series_r007.jpg" width="600">
-  <figcaption><em>Figure 11: Drill Machine R007 - Excavator Series in working position</em></figcaption>
+<figure class="project-image">
+  <img src="{{ '/images/excavator_series_r007.jpg' | relative_url }}" 
+       alt="Drill Machine R007 - Excavator Series in working position">
+  <figcaption style="text-align:center;">
+    <em>Figure 11: Drill Machine R007 - Excavator Series in working position</em>
+  </figcaption>
 </figure>
 
 <div markdown="1">
@@ -330,9 +348,12 @@ Design a custom drill machine attached to an excavator:
   
 <br>
 
-<figure>
-  <img src="./images/active_grid.jpg" width="600">
-  <figcaption><em>Figure 12: Oscillating Rig to Replicate Wind Gust and Natural Wind Conditions</em></figcaption>
+<figure class="project-image">
+  <img src="{{ '/images/active_grid.jpg' | relative_url }}" 
+       alt="Oscillating Rig to Replicate Wind Gust and Natural Wind Conditions">
+  <figcaption style="text-align:center;">
+    <em>Figure 12: Oscillating Rig to Replicate Wind Gust and Natural Wind Conditions</em>
+  </figcaption>
 </figure>
 
 <br>
@@ -347,30 +368,42 @@ Design a custom drill machine attached to an excavator:
 
 <br>
 
-<figure>
-  <img src="./images/active_grid_with_wing.jpg" width="600">
-  <figcaption><em>Figure 13: UAV Wing Testing under Wind Gust and Natural Wind Conditions</em></figcaption>
+<figure class="project-image">
+  <img src="{{ '/images//active_grid_with_wing.jpg' | relative_url }}" 
+       alt="UAV Wing Testing under Wind Gust and Natural Wind Conditions">
+  <figcaption style="text-align:center;">
+    <em>Figure 13: UAV Wing Testing under Wind Gust and Natural Wind Conditions</em>
+  </figcaption>
 </figure>
 
 <br>
 
-<figure>
-  <img src="./images/kahu_uav.jpg" width="600">
-  <figcaption><em>Figure 14: Kahu UAV from New Zealand Defence Force employed in the study</em></figcaption>
+<figure class="project-image">
+  <img src="{{ '/images//kahu_uav.jpg' | relative_url }}" 
+       alt="Kahu UAV from New Zealand Defence Force employed in the study">
+  <figcaption style="text-align:center;">
+    <em>Figure 14: Kahu UAV from New Zealand Defence Force employed in the study</em>
+  </figcaption>
 </figure>
 
 <br>
 
-<figure>
-  <img src="./images/working_with_aircraft_model.jpg" width="600">
-  <figcaption><em>Figure 15: Working with other Aircraft Models</em></figcaption>
+<figure class="project-image">
+  <img src="{{ '/images//working_with_aircraft_model.jpg' | relative_url }}" 
+       alt="Working with other Aircraft Models">
+  <figcaption style="text-align:center;">
+    <em>Figure 15: Working with other Aircraft Models</em>
+  </figcaption>
 </figure>
 
 <br>
 
-<figure>
-  <img src="./images/passive_grid.jpg" width="600">
-  <figcaption><em>Figure 16: Rectangular Grid to Generate Turbulent Flows</em></figcaption>
+<figure class="project-image">
+  <img src="{{ '/images//passive_grid.jpg' | relative_url }}" 
+       alt="Rectangular Grid to Generate Turbulent Flows">
+  <figcaption style="text-align:center;">
+    <em>Figure 16: Rectangular Grid to Generate Turbulent Flows</em>
+  </figcaption>
 </figure>
 
 <div markdown="1">
@@ -420,9 +453,12 @@ Investigate the performance of a small fixed-wing UAV under different wind condi
   
 <br>
 
-<figure>
-  <img src="./images/tidal_turbine.jpg" width="600">
-  <figcaption><em>Figure 17: Tidal Turbine Model</em></figcaption>
+<figure class="project-image">
+  <img src="{{ '/images//tidal_turbine.jpg' | relative_url }}" 
+       alt="Tidal Turbine Model">
+  <figcaption style="text-align:center;">
+    <em>Figure 17: Tidal Turbine Model</em>
+  </figcaption>
 </figure>
 
 <div markdown="1">
