@@ -38,3 +38,18 @@ h3 {
   margin-top: 32px;
   margin-bottom: 12px;
 }
+
+/* Add spacing between collapsible projects */
+details {
+  margin-bottom: 60px;   /* space below each project */
+}
+
+/* Optional: make horizontal rule spacing wider */
+hr {
+  margin: 60px 0;
+}
+
+/* Optional: extra spacing when a project is expanded */
+details[open] {
+  margin-bottom: 80px;   /* gives extra space after expanded project */
+}
