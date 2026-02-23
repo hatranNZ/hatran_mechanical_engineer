@@ -179,7 +179,7 @@ Design a custom drill machine for geotechnical purposes to meet specific operati
 <details>
 <summary><strong>Geotechnical Drill Machine R009 - a version integrated on the truck</strong></summary>
   
-<br>
+<br> 
 
 <figure class="project-image">
   <img src="{{ '/images/geotechnical_drill_machine_r009.jpg' | relative_url }}" 
