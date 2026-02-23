@@ -192,7 +192,7 @@ Design a custom drill machine for geotechnical purposes to meet specific operati
 <br>
 
 <figure class="project-image">
-  <img src="{{ '/images/geotechnical_drill_machine_r009_1.png' | relative_url }}" 
+  <img src="{{ '/images/geotechnical_drill_machine_r009_1.PNG' | relative_url }}" 
        alt="Geotechnical Drill Machine R009 in travelling position">
   <figcaption style="text-align:center;">
     <em>Figure 8: Geotechnical Drill Machine R009 in travelling position</em>
