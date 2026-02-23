@@ -190,7 +190,7 @@ Design a custom drill machine for geotechnical purposes to meet specific operati
 </figure>
 
 <br>
-
+ 
 <figure class="project-image">
   <img src="{{ '/images/geotechnical_drill_machine_r009_1.PNG' | relative_url }}" 
        alt="Geotechnical Drill Machine R009 in travelling position">
