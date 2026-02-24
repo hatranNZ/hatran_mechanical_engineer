@@ -9,7 +9,7 @@ permalink: /education/
 ## Doctor of Philosophy (PhD), Mechanical Engineering  
 **University of Auckland**, New Zealand | 2019 – 2024  
 
-**Research focus**
+**Research Focus**  
 Aerodynamic performance and stability of small fixed-wing UAVs under extreme and unsteady wind conditions.  
 
 **Thesis**  
