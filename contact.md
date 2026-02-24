@@ -31,4 +31,4 @@ https://hatrannz.github.io/hatran_mechanical_engineer
 
 ## Download CV
 
-[Download My CV](./files/Ha Tran_resume.pdf)
+[Download CV]({{ 'Ha Tran - Resume.pdf' | relative_url }})
